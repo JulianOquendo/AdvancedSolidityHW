@@ -1,6 +1,6 @@
 # Unit 21: You sure can attract a crowd!
 
-![ICO](Base Images/ICO.jpg)
+![ICO](BaseImages/ICO.jpg)
 
 ## Background
 
