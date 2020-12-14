@@ -1,6 +1,6 @@
 # Unit 21: You sure can attract a crowd!
 
-![crowd](https://image.shutterstock.com/image-photo/group-people-holding-cigarette-lighters-600w-687342115.jpg)
+![crowd](Images/ICO.jpg)
 
 ## Background
 
